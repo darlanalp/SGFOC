@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DSUser" targetNamespace="http://tempuri.org/DSUser.xsd" xmlns:mstns="http://tempuri.org/DSUser.xsd" xmlns="http://tempuri.org/DSUser.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="1" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="DRProjetoConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="DRProjetoConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.DRGlobal.BLL.Properties.Settings.GlobalReference.Default.DRProjetoConnectionString" Provider="System.Data.SqlClient" />
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="SGFOCConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="SGFOCConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.DRGlobal.BLL.Properties.Settings.GlobalReference.Default.SGFOCConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DSUser" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="DSUser" msprop:Generator_DataSetName="DSUser" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DRUsuario" msprop:Generator_UserTableName="DRUsuario" msprop:Generator_RowDeletedName="DRUsuarioRowDeleted" msprop:Generator_RowChangedName="DRUsuarioRowChanged" msprop:Generator_RowClassName="DRUsuarioRow" msprop:Generator_RowChangingName="DRUsuarioRowChanging" msprop:Generator_RowEvArgName="DRUsuarioRowChangeEvent" msprop:Generator_RowEvHandlerName="DRUsuarioRowChangeEventHandler" msprop:Generator_TableClassName="DRUsuarioDataTable" msprop:Generator_TableVarName="tableDRUsuario" msprop:Generator_RowDeletingName="DRUsuarioRowDeleting" msprop:Generator_TablePropName="DRUsuario">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="IDUsuario" msdata:ReadOnly="true" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msdata:Caption="Id. Usuário" msprop:Generator_UserColumnName="IDUsuario" msprop:Generator_ColumnVarNameInTable="columnIDUsuario" msprop:Generator_ColumnPropNameInRow="IDUsuario" msprop:Generator_ColumnPropNameInTable="IDUsuarioColumn" type="xs:int" />
+              <xs:element name="Nome" msprop:Generator_UserColumnName="Nome" msprop:Generator_ColumnVarNameInTable="columnNome" msprop:Generator_ColumnPropNameInRow="Nome" msprop:Generator_ColumnPropNameInTable="NomeColumn">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="60" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="usuario" msdata:Caption="Usuário" msprop:Generator_UserColumnName="usuario" msprop:Generator_ColumnVarNameInTable="columnusuario" msprop:Generator_ColumnPropNameInRow="usuario" msprop:Generator_ColumnPropNameInTable="usuarioColumn">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="senha" msdata:Caption="Senha" msprop:Generator_UserColumnName="senha" msprop:Generator_ColumnVarNameInTable="columnsenha" msprop:Generator_ColumnPropNameInRow="senha" msprop:Generator_ColumnPropNameInTable="senhaColumn">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="usuariosupervisor" msdata:Caption="Supervisor" msprop:Generator_UserColumnName="usuariosupervisor" msprop:Generator_ColumnVarNameInTable="columnusuariosupervisor" msprop:Generator_ColumnPropNameInRow="usuariosupervisor" msprop:Generator_ColumnPropNameInTable="usuariosupervisorColumn" type="xs:boolean" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="DRPERMISSAOUSER" msprop:Generator_UserTableName="DRPERMISSAOUSER" msprop:Generator_RowDeletedName="DRPERMISSAOUSERRowDeleted" msprop:Generator_RowChangedName="DRPERMISSAOUSERRowChanged" msprop:Generator_RowClassName="DRPERMISSAOUSERRow" msprop:Generator_RowChangingName="DRPERMISSAOUSERRowChanging" msprop:Generator_RowEvArgName="DRPERMISSAOUSERRowChangeEvent" msprop:Generator_RowEvHandlerName="DRPERMISSAOUSERRowChangeEventHandler" msprop:Generator_TableClassName="DRPERMISSAOUSERDataTable" msprop:Generator_TableVarName="tableDRPERMISSAOUSER" msprop:Generator_RowDeletingName="DRPERMISSAOUSERRowDeleting" msprop:Generator_TablePropName="DRPERMISSAOUSER">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="IDUSUARIO" msprop:Generator_UserColumnName="IDUSUARIO" msprop:Generator_ColumnVarNameInTable="columnIDUSUARIO" msprop:Generator_ColumnPropNameInRow="IDUSUARIO" msprop:Generator_ColumnPropNameInTable="IDUSUARIOColumn" type="xs:int" />
+              <xs:element name="IDSEGURANCA" msprop:Generator_UserColumnName="IDSEGURANCA" msprop:Generator_ColumnVarNameInTable="columnIDSEGURANCA" msprop:Generator_ColumnPropNameInRow="IDSEGURANCA" msprop:Generator_ColumnPropNameInTable="IDSEGURANCAColumn" type="xs:int" />
+              <xs:element name="SEGURANCA" msprop:Generator_UserColumnName="SEGURANCA" msprop:Generator_ColumnVarNameInTable="columnSEGURANCA" msprop:Generator_ColumnPropNameInRow="SEGURANCA" msprop:Generator_ColumnPropNameInTable="SEGURANCAColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:DRUsuario" />
+      <xs:field xpath="mstns:IDUsuario" />
+    </xs:unique>
+    <xs:unique name="DRPERMISSAOUSER_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:DRPERMISSAOUSER" />
+      <xs:field xpath="mstns:IDUSUARIO" />
+      <xs:field xpath="mstns:IDSEGURANCA" />
+    </xs:unique>
+  </xs:element>
+  <xs:annotation>
+    <xs:appinfo>
+      <msdata:Relationship name="DRUsuario_DRPERMISSAOUSER" msdata:parent="DRUsuario" msdata:child="DRPERMISSAOUSER" msdata:parentkey="IDUsuario" msdata:childkey="IDUSUARIO" msprop:Generator_UserRelationName="DRUsuario_DRPERMISSAOUSER" msprop:Generator_RelationVarName="relationDRUsuario_DRPERMISSAOUSER" msprop:Generator_UserChildTable="DRPERMISSAOUSER" msprop:Generator_UserParentTable="DRUsuario" msprop:Generator_ParentPropName="DRUsuarioRow" msprop:Generator_ChildPropName="GetDRPERMISSAOUSERRows" />
+    </xs:appinfo>
+  </xs:annotation>
+</xs:schema>

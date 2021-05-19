@@ -1,0 +1,23 @@
+C:\DRSistemas\DR Projeto\SGCO\DRGlobal.Server\bin\Release\DRGlobal.Server.dll.config
+C:\DRSistemas\DR Projeto\SGCO\DRGlobal.Server\bin\Release\DRGlobal.Server.dll
+C:\DRSistemas\DR Projeto\SGCO\DRGlobal.Server\bin\Release\DRGlobal.Server.pdb
+C:\DRSistemas\DR Projeto\SGCO\DRGlobal.Server\bin\Release\DR.Lib.RegraNegocio.dll
+C:\DRSistemas\DR Projeto\SGCO\DRGlobal.Server\bin\Release\DR.Lib.Winform.dll
+C:\DRSistemas\DR Projeto\SGCO\DRGlobal.Server\bin\Release\DR.Sql.dll
+C:\DRSistemas\DR Projeto\SGCO\DRGlobal.Server\bin\Release\DR.Utils.dll
+C:\DRSistemas\DR Projeto\SGCO\DRGlobal.Server\bin\Release\DR.Login.dll
+C:\DRSistemas\DR Projeto\SGCO\DRGlobal.Server\bin\Release\DR.Lib.Filtro.dll
+C:\DRSistemas\DR Projeto\SGCO\DRGlobal.Server\bin\Release\DR.Lib.RegraNegocio.pdb
+C:\DRSistemas\DR Projeto\SGCO\DRGlobal.Server\bin\Release\DR.Login.pdb
+C:\DRSistemas\DR Projeto\SGCO\DRGlobal.Server\bin\Release\DR.Lib.Filtro.pdb
+C:\DRSistemas\DR Projeto\SGCO\DRGlobal.Server\bin\Release\DR.Lib.Winform.pdb
+C:\DRSistemas\DR Projeto\SGCO\DRGlobal.Server\bin\Release\DR.Utils.pdb
+C:\DRSistemas\DR Projeto\SGCO\DRGlobal.Server\bin\Release\DR.Sql.pdb
+C:\DRSistemas\BinDR\DRGlobal.BLL.dll.config
+C:\DRSistemas\BinDR\DRGlobal.BLL.dll
+C:\DRSistemas\BinDR\DRGlobal.BLL.pdb
+C:\DRSistemas\DR Projeto\SGCO\DRGlobal.Server\obj\Release\ResolveAssemblyReference.cache
+C:\DRSistemas\DR Projeto\SGCO\DRGlobal.Server\obj\Release\DRGlobal.BLL.Properties.Resources.resources
+C:\DRSistemas\DR Projeto\SGCO\DRGlobal.Server\obj\Release\DRGlobal.Server.csproj.GenerateResource.Cache
+C:\DRSistemas\DR Projeto\SGCO\DRGlobal.Server\obj\Release\DRGlobal.BLL.dll
+C:\DRSistemas\DR Projeto\SGCO\DRGlobal.Server\obj\Release\DRGlobal.BLL.pdb

@@ -1,0 +1,33 @@
+C:\DRSistemas\DR Projeto\SGCO\DRGlobal.Server\bin\Debug\DRGlobal.Server.dll
+C:\DRSistemas\DR Projeto\SGCO\DRGlobal.Server\bin\Debug\DRGlobal.Server.pdb
+C:\DRSistemas\DR Projeto\SGCO\DRGlobal.Server\bin\Debug\DR.Lib.RegraNegocio.dll
+C:\DRSistemas\DR Projeto\SGCO\DRGlobal.Server\bin\Debug\DR.Lib.Winform.dll
+C:\DRSistemas\DR Projeto\SGCO\DRGlobal.Server\bin\Debug\DR.Sql.dll
+C:\DRSistemas\DR Projeto\SGCO\DRGlobal.Server\bin\Debug\DR.Utils.dll
+C:\DRSistemas\DR Projeto\SGCO\DRGlobal.Server\bin\Debug\DR.Lib.Filtro.dll
+C:\DRSistemas\DR Projeto\SGCO\DRGlobal.Server\bin\Debug\DR.Login.dll
+C:\DRSistemas\DR Projeto\SGCO\DRGlobal.Server\bin\Debug\DR.Lib.Filtro.pdb
+C:\DRSistemas\DR Projeto\SGCO\DRGlobal.Server\bin\Debug\DR.Sql.pdb
+C:\DRSistemas\DR Projeto\SGCO\DRGlobal.Server\bin\Debug\DR.Login.pdb
+C:\DRSistemas\DR Projeto\SGCO\DRGlobal.Server\bin\Debug\DR.Lib.RegraNegocio.pdb
+C:\DRSistemas\DR Projeto\SGCO\DRGlobal.Server\bin\Debug\DR.Lib.Winform.pdb
+C:\DRSistemas\DR Projeto\SGCO\DRGlobal.Server\bin\Debug\DR.Utils.pdb
+C:\BinDR\DRGlobal.BLL.dll.config
+C:\BinDR\DRGlobal.BLL.dll
+C:\BinDR\DRGlobal.BLL.pdb
+C:\DRSistemas\DR Projeto\SGCO\DRGlobal.Server\obj\Debug\ResolveAssemblyReference.cache
+C:\DRSistemas\DR Projeto\SGCO\DRGlobal.Server\obj\Debug\DRGlobal.BLL.Properties.Resources.resources
+C:\DRSistemas\DR Projeto\SGCO\DRGlobal.Server\obj\Debug\DRGlobal.Server.csproj.GenerateResource.Cache
+C:\DRSistemas\DR Projeto\SGCO\DRGlobal.Server\obj\Debug\DRGlobal.BLL.dll
+C:\DRSistemas\DR Projeto\SGCO\DRGlobal.Server\obj\Debug\DRGlobal.BLL.pdb
+F:\Desenvolvimento\BinDR\DRGlobal.BLL.dll.config
+F:\Desenvolvimento\BinDR\DRGlobal.BLL.dll
+F:\Desenvolvimento\BinDR\DRGlobal.BLL.pdb
+F:\Desenvolvimento\DRSistemas\DR Projeto\SGCO\DRGlobal.Server\obj\Debug\ResolveAssemblyReference.cache
+F:\Desenvolvimento\DRSistemas\DR Projeto\SGCO\DRGlobal.Server\obj\Debug\DRGlobal.BLL.Properties.Resources.resources
+F:\Desenvolvimento\DRSistemas\DR Projeto\SGCO\DRGlobal.Server\obj\Debug\ResGen.read.1.tlog
+F:\Desenvolvimento\DRSistemas\DR Projeto\SGCO\DRGlobal.Server\obj\Debug\ResGen.write.1.tlog
+F:\Desenvolvimento\DRSistemas\DR Projeto\SGCO\DRGlobal.Server\obj\Debug\DRGlobal.BLL.dll
+F:\Desenvolvimento\DRSistemas\DR Projeto\SGCO\DRGlobal.Server\obj\Debug\DRGlobal.BLL.pdb
+F:\Desenvolvimento\DRSistemas\DR Projeto\SGCO\DRGlobal.Server\obj\Debug\GenerateResource.read.1.tlog
+F:\Desenvolvimento\DRSistemas\DR Projeto\SGCO\DRGlobal.Server\obj\Debug\GenerateResource.write.1.tlog
