@@ -1,0 +1,65 @@
+C:\DRSistemas\DR Projeto\SGCO\DRPatrimonio.Form\bin\Debug\DRPatrimonio.Form.dll
+C:\DRSistemas\DR Projeto\SGCO\DRPatrimonio.Form\bin\Debug\DRPatrimonio.Form.pdb
+C:\DRSistemas\DR Projeto\SGCO\DRPatrimonio.Form\bin\Debug\DR.Lib.Filtro.dll
+C:\DRSistemas\DR Projeto\SGCO\DRPatrimonio.Form\bin\Debug\DR.Lib.RegraNegocio.dll
+C:\DRSistemas\DR Projeto\SGCO\DRPatrimonio.Form\bin\Debug\DR.Lib.Winform.dll
+C:\DRSistemas\DR Projeto\SGCO\DRPatrimonio.Form\bin\Debug\DR.Utils.dll
+C:\DRSistemas\DR Projeto\SGCO\DRPatrimonio.Form\bin\Debug\DRPatrimonio.Server.dll
+C:\DRSistemas\DR Projeto\SGCO\DRPatrimonio.Form\bin\Debug\DR.Sql.dll
+C:\DRSistemas\DR Projeto\SGCO\DRPatrimonio.Form\bin\Debug\DR.Login.dll
+C:\DRSistemas\DR Projeto\SGCO\DRPatrimonio.Form\bin\Debug\DR.Lib.Filtro.pdb
+C:\DRSistemas\DR Projeto\SGCO\DRPatrimonio.Form\bin\Debug\DR.Sql.pdb
+C:\DRSistemas\DR Projeto\SGCO\DRPatrimonio.Form\bin\Debug\DRPatrimonio.Server.pdb
+C:\DRSistemas\DR Projeto\SGCO\DRPatrimonio.Form\bin\Debug\DR.Login.pdb
+C:\DRSistemas\DR Projeto\SGCO\DRPatrimonio.Form\bin\Debug\DR.Lib.RegraNegocio.pdb
+C:\DRSistemas\DR Projeto\SGCO\DRPatrimonio.Form\bin\Debug\DR.Lib.Winform.pdb
+C:\DRSistemas\DR Projeto\SGCO\DRPatrimonio.Form\bin\Debug\DR.Utils.pdb
+C:\DRSistemas\DR Projeto\SGCO\DRPatrimonio.Form\bin\Debug\DRProjetoCadastro.Form.dll
+C:\DRSistemas\DR Projeto\SGCO\DRPatrimonio.Form\bin\Debug\DRProjetoCadastro.BLL.dll
+C:\DRSistemas\DR Projeto\SGCO\DRPatrimonio.Form\bin\Debug\DRProjetoCadastro.Form.pdb
+C:\DRSistemas\DR Projeto\SGCO\DRPatrimonio.Form\bin\Debug\DRProjetoCadastro.BLL.pdb
+C:\DRSistemas\BinDR\DRRelConferenciaDespesa.rdlc
+C:\DRSistemas\BinDR\DRRelEtapasAtividadeProjeto.rdlc
+C:\DRSistemas\BinDR\DRRelExtratoPagInvestidor.rdlc
+C:\DRSistemas\BinDR\DRRelDespesa_NaoClassificada.rdlc
+C:\DRSistemas\BinDR\DRRelAcompanhamentoInvest.rdlc
+C:\DRSistemas\BinDR\DRRelAcompanhamentoResumido.rdlc
+C:\DRSistemas\BinDR\DRRelAcompanhamento.rdlc
+C:\DRSistemas\BinDR\DRRelDespesa_Atividade.rdlc
+C:\DRSistemas\BinDR\DRRelEtapaAtividade.rdlc
+C:\DRSistemas\BinDR\DRRelInvetidor.rdlc
+C:\DRSistemas\BinDR\DRRelPatrimonio.rdlc
+C:\DRSistemas\BinDR\RelDemo.rdlc
+C:\DRSistemas\BinDR\DRPatrimonio.Form.dll
+C:\DRSistemas\BinDR\DRPatrimonio.Form.pdb
+C:\DRSistemas\DR Projeto\SGCO\DRPatrimonio.Form\obj\Debug\ResolveAssemblyReference.cache
+C:\DRSistemas\DR Projeto\SGCO\DRPatrimonio.Form\obj\Debug\DRPatrimonio.Form.DRCadPatrimonio.resources
+C:\DRSistemas\DR Projeto\SGCO\DRPatrimonio.Form\obj\Debug\DRPatrimonio.Form.Properties.Resources.resources
+C:\DRSistemas\DR Projeto\SGCO\DRPatrimonio.Form\obj\Debug\DRPatrimonio.Form.csproj.GenerateResource.Cache
+C:\DRSistemas\DR Projeto\SGCO\DRPatrimonio.Form\obj\Debug\DRPatrimonio.Form.dll
+C:\DRSistemas\DR Projeto\SGCO\DRPatrimonio.Form\obj\Debug\DRPatrimonio.Form.pdb
+C:\DRSistemas\BinDR\DRRelCotas.rdlc
+F:\Desenvolvimento\DRSistemas\DR Projeto\SGCO\DRPatrimonio.Form\obj\Debug\ResolveAssemblyReference.cache
+F:\Desenvolvimento\DRSistemas\DR Projeto\SGCO\DRPatrimonio.Form\obj\Debug\DRPatrimonio.Form.DRCadPatrimonio.resources
+F:\Desenvolvimento\DRSistemas\DR Projeto\SGCO\DRPatrimonio.Form\obj\Debug\DRPatrimonio.Form.Properties.Resources.resources
+F:\Desenvolvimento\DRSistemas\DR Projeto\SGCO\DRPatrimonio.Form\obj\Debug\ResGen.read.1.tlog
+F:\Desenvolvimento\DRSistemas\DR Projeto\SGCO\DRPatrimonio.Form\obj\Debug\ResGen.write.1.tlog
+F:\Desenvolvimento\DRSistemas\DR Projeto\SGCO\DRPatrimonio.Form\obj\Debug\DRPatrimonio.Form.dll
+F:\Desenvolvimento\DRSistemas\DR Projeto\SGCO\DRPatrimonio.Form\obj\Debug\DRPatrimonio.Form.pdb
+F:\Desenvolvimento\DRSistemas\BinDR\DRRelCotas.rdlc
+F:\Desenvolvimento\DRSistemas\BinDR\DRRelConferenciaDespesa.rdlc
+F:\Desenvolvimento\DRSistemas\BinDR\DRRelEtapasAtividadeProjeto.rdlc
+F:\Desenvolvimento\DRSistemas\BinDR\DRRelExtratoPagInvestidor.rdlc
+F:\Desenvolvimento\DRSistemas\BinDR\DRRelDespesa_NaoClassificada.rdlc
+F:\Desenvolvimento\DRSistemas\BinDR\DRRelAcompanhamentoInvest.rdlc
+F:\Desenvolvimento\DRSistemas\BinDR\DRRelAcompanhamentoResumido.rdlc
+F:\Desenvolvimento\DRSistemas\BinDR\DRRelAcompanhamento.rdlc
+F:\Desenvolvimento\DRSistemas\BinDR\DRRelDespesa_Atividade.rdlc
+F:\Desenvolvimento\DRSistemas\BinDR\DRRelEtapaAtividade.rdlc
+F:\Desenvolvimento\DRSistemas\BinDR\DRRelInvetidor.rdlc
+F:\Desenvolvimento\DRSistemas\BinDR\DRRelPatrimonio.rdlc
+F:\Desenvolvimento\DRSistemas\BinDR\RelDemo.rdlc
+F:\Desenvolvimento\DRSistemas\BinDR\DRPatrimonio.Form.dll
+F:\Desenvolvimento\DRSistemas\BinDR\DRPatrimonio.Form.pdb
+F:\Desenvolvimento\DRSistemas\DR Projeto\SGCO\DRPatrimonio.Form\obj\Debug\GenerateResource.read.1.tlog
+F:\Desenvolvimento\DRSistemas\DR Projeto\SGCO\DRPatrimonio.Form\obj\Debug\GenerateResource.write.1.tlog
