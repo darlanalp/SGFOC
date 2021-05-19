@@ -1,0 +1,355 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{60F8EDAA-9AAC-4038-AE0D-ABE84FAA38E6}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DRProjetoCadastro.Form</RootNamespace>
+    <AssemblyName>DRProjetoCadastro.Form</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <TargetFrameworkProfile />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\..\..\BinDR\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>..\..\..\BinDR\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DR.Lib.Filtro, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\BinDR\DR.Lib.Filtro.dll</HintPath>
+    </Reference>
+    <Reference Include="DR.Lib.RegraNegocio, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\BinDR\DR.Lib.RegraNegocio.dll</HintPath>
+    </Reference>
+    <Reference Include="DR.Lib.Winform, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\BinDR\DR.Lib.Winform.dll</HintPath>
+    </Reference>
+    <Reference Include="DR.Utils, Version=1.0.3963.40397, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\BinDR\DR.Utils.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DRCadCota.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DRCadCota.Designer.cs">
+      <DependentUpon>DRCadCota.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DRCadRendimento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DRCadRendimento.Designer.cs">
+      <DependentUpon>DRCadRendimento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DRFormAguarde.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DRFormAguarde.Designer.cs">
+      <DependentUpon>DRFormAguarde.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DRGraficoPercentualObra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DRGraficoPercentualObra.Designer.cs">
+      <DependentUpon>DRGraficoPercentualObra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DRInvestidorLan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DRInvestidorLan.Designer.cs">
+      <DependentUpon>DRInvestidorLan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DRCadAtividade.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DRCadAtividade.Designer.cs">
+      <DependentUpon>DRCadAtividade.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DRCadFornecedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DRCadFornecedor.Designer.cs">
+      <DependentUpon>DRCadFornecedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DRCadInvestidor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DRCadInvestidor.Designer.cs">
+      <DependentUpon>DRCadInvestidor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DRCadProjeto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DRCadProjeto.Designer.cs">
+      <DependentUpon>DRCadProjeto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DRCadEtapa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DRCadEtapa.Designer.cs">
+      <DependentUpon>DRCadEtapa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DRCronograma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DRCronograma.Designer.cs">
+      <DependentUpon>DRCronograma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DRDespesaLan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DRDespesaLan.Designer.cs">
+      <DependentUpon>DRDespesaLan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DRFormDespesa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DRFormDespesa.Designer.cs">
+      <DependentUpon>DRFormDespesa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DRManutencaoInvestidor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DRManutencaoInvestidor.Designer.cs">
+      <DependentUpon>DRManutencaoInvestidor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DRProjetoContext.cs" />
+    <Compile Include="DRSelectProjeto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DRSelectProjeto.Designer.cs">
+      <DependentUpon>DRSelectProjeto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DRUltils_SGFOC.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="DRCadCota.resx">
+      <DependentUpon>DRCadCota.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DRCadAtividade.resx">
+      <DependentUpon>DRCadAtividade.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DRCadEtapa.resx">
+      <DependentUpon>DRCadEtapa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DRCadFornecedor.resx">
+      <DependentUpon>DRCadFornecedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DRCadInvestidor.resx">
+      <DependentUpon>DRCadInvestidor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DRCadProjeto.resx">
+      <DependentUpon>DRCadProjeto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DRCadRendimento.resx">
+      <DependentUpon>DRCadRendimento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DRCronograma.resx">
+      <DependentUpon>DRCronograma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DRDespesaLan.resx">
+      <DependentUpon>DRDespesaLan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DRFormAguarde.resx">
+      <DependentUpon>DRFormAguarde.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DRFormDespesa.resx">
+      <DependentUpon>DRFormDespesa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DRGraficoPercentualObra.resx">
+      <DependentUpon>DRGraficoPercentualObra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DRInvestidorLan.resx">
+      <DependentUpon>DRInvestidorLan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DRManutencaoInvestidor.resx">
+      <DependentUpon>DRManutencaoInvestidor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DRSelectProjeto.resx">
+      <DependentUpon>DRSelectProjeto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AddAtividade.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AddAtividade1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Etapa_delete_24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Atividade_add_24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Atividade_delete_24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Etapa_add_24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Despesa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\redo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DRProjetoCadastro.Server\DRProjetoCadastro.Server.csproj">
+      <Project>{2977F314-9EB2-4426-A70D-943B389DC028}</Project>
+      <Name>DRProjetoCadastro.Server</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Casa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Atividade_.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kformula_kfo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\undo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sign_dolar_search_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clean.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\accounting_reload_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\accounting_reload_24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\activity_24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sign_dolar_write_24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sales_reload_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sales_down_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow-in.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calculator.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Controle\" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
