@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DSPatrimonio" targetNamespace="http://tempuri.org/DSPatrimonio.xsd" xmlns:mstns="http://tempuri.org/DSPatrimonio.xsd" xmlns="http://tempuri.org/DSPatrimonio.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="DRProjetoConnectionString" IsAppSettingsProperty="true" Modifier="Assembly" Name="DRProjetoConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.DRPatrimonio.Server.Properties.Settings.GlobalReference.Default.DRProjetoConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DSPatrimonio" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="DSPatrimonio" msprop:Generator_DataSetName="DSPatrimonio" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DRPATRIMONIO" msprop:Generator_UserTableName="DRPATRIMONIO" msprop:Generator_RowDeletedName="DRPATRIMONIORowDeleted" msprop:Generator_RowChangedName="DRPATRIMONIORowChanged" msprop:Generator_RowClassName="DRPATRIMONIORow" msprop:Generator_RowChangingName="DRPATRIMONIORowChanging" msprop:Generator_RowEvArgName="DRPATRIMONIORowChangeEvent" msprop:Generator_RowEvHandlerName="DRPATRIMONIORowChangeEventHandler" msprop:Generator_TableClassName="DRPATRIMONIODataTable" msprop:Generator_TableVarName="tableDRPATRIMONIO" msprop:Generator_RowDeletingName="DRPATRIMONIORowDeleting" msprop:Generator_TablePropName="DRPATRIMONIO">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="CODIGOPRJ" msdata:Caption="Código da Obra" msprop:Generator_UserColumnName="CODIGOPRJ" msprop:Generator_ColumnPropNameInRow="CODIGOPRJ" msprop:Generator_ColumnVarNameInTable="columnCODIGOPRJ" msprop:Generator_ColumnPropNameInTable="CODIGOPRJColumn" type="xs:int" />
+              <xs:element name="IDPATRIMONIO" msdata:Caption="Id. Patrimônio" msprop:Generator_UserColumnName="IDPATRIMONIO" msprop:Generator_ColumnPropNameInRow="IDPATRIMONIO" msprop:Generator_ColumnVarNameInTable="columnIDPATRIMONIO" msprop:Generator_ColumnPropNameInTable="IDPATRIMONIOColumn" type="xs:int" />
+              <xs:element name="CODETAPA" msdata:Caption="Etapa" msprop:Generator_UserColumnName="CODETAPA" msprop:Generator_ColumnPropNameInRow="CODETAPA" msprop:Generator_ColumnVarNameInTable="columnCODETAPA" msprop:Generator_ColumnPropNameInTable="CODETAPAColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="25" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="CODATIVIDADE" msdata:Caption="Atividade" msprop:Generator_UserColumnName="CODATIVIDADE" msprop:Generator_ColumnPropNameInRow="CODATIVIDADE" msprop:Generator_ColumnVarNameInTable="columnCODATIVIDADE" msprop:Generator_ColumnPropNameInTable="CODATIVIDADEColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="25" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="CODFORNECEDOR" msdata:Caption="Fornecedor" msprop:Generator_UserColumnName="CODFORNECEDOR" msprop:Generator_ColumnVarNameInTable="columnCODFORNECEDOR" msprop:Generator_ColumnPropNameInRow="CODFORNECEDOR" msprop:Generator_ColumnPropNameInTable="CODFORNECEDORColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="DATAAQUISICAO" msdata:Caption="Data de Aquisição" msprop:Generator_UserColumnName="DATAAQUISICAO" msprop:Generator_ColumnPropNameInRow="DATAAQUISICAO" msprop:Generator_ColumnVarNameInTable="columnDATAAQUISICAO" msprop:Generator_ColumnPropNameInTable="DATAAQUISICAOColumn" type="xs:dateTime" />
+              <xs:element name="PATRIMONIO" msdata:Caption="Descrição Patrimônio" msprop:Generator_UserColumnName="PATRIMONIO" msprop:Generator_ColumnPropNameInRow="PATRIMONIO" msprop:Generator_ColumnVarNameInTable="columnPATRIMONIO" msprop:Generator_ColumnPropNameInTable="PATRIMONIOColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="QTDPAT" msdata:Caption="Quantidade" msprop:Generator_UserColumnName="QTDPAT" msprop:Generator_ColumnVarNameInTable="columnQTDPAT" msprop:Generator_ColumnPropNameInRow="QTDPAT" msprop:Generator_ColumnPropNameInTable="QTDPATColumn" type="xs:int" />
+              <xs:element name="VALORAQUISICAO" msdata:Caption="Valor de Aquisição" msprop:Generator_UserColumnName="VALORAQUISICAO" msprop:Generator_ColumnPropNameInRow="VALORAQUISICAO" msprop:Generator_ColumnVarNameInTable="columnVALORAQUISICAO" msprop:Generator_ColumnPropNameInTable="VALORAQUISICAOColumn" type="xs:decimal" />
+              <xs:element name="VALORTOTAL" msdata:Caption="Total" msprop:Generator_UserColumnName="VALORTOTAL" msprop:Generator_ColumnVarNameInTable="columnVALORTOTAL" msprop:Generator_ColumnPropNameInRow="VALORTOTAL" msprop:Generator_ColumnPropNameInTable="VALORTOTALColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="OBSERVACAO" msdata:Caption="Observação" msprop:Generator_UserColumnName="OBSERVACAO" msprop:Generator_ColumnPropNameInRow="OBSERVACAO" msprop:Generator_ColumnVarNameInTable="columnOBSERVACAO" msprop:Generator_ColumnPropNameInTable="OBSERVACAOColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:DRPATRIMONIO" />
+      <xs:field xpath="mstns:CODIGOPRJ" />
+      <xs:field xpath="mstns:IDPATRIMONIO" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

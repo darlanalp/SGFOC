@@ -1,0 +1,24 @@
+C:\DRSistemas\DR Projeto\SGCO\DRPatrimonio.Server\bin\Debug\DRPatrimonio.Server.dll
+C:\DRSistemas\DR Projeto\SGCO\DRPatrimonio.Server\bin\Debug\DRPatrimonio.Server.pdb
+C:\DRSistemas\DR Projeto\SGCO\DRPatrimonio.Server\bin\Debug\DR.Lib.RegraNegocio.dll
+C:\DRSistemas\DR Projeto\SGCO\DRPatrimonio.Server\bin\Debug\DR.Lib.Winform.dll
+C:\DRSistemas\DR Projeto\SGCO\DRPatrimonio.Server\bin\Debug\DR.Sql.dll
+C:\DRSistemas\DR Projeto\SGCO\DRPatrimonio.Server\bin\Debug\DR.Utils.dll
+C:\DRSistemas\DR Projeto\SGCO\DRPatrimonio.Server\bin\Debug\DR.Lib.Filtro.dll
+C:\DRSistemas\DR Projeto\SGCO\DRPatrimonio.Server\bin\Debug\DR.Login.dll
+C:\DRSistemas\DR Projeto\SGCO\DRPatrimonio.Server\bin\Debug\DR.Lib.Filtro.pdb
+C:\DRSistemas\DR Projeto\SGCO\DRPatrimonio.Server\bin\Debug\DR.Sql.pdb
+C:\DRSistemas\DR Projeto\SGCO\DRPatrimonio.Server\bin\Debug\DR.Login.pdb
+C:\DRSistemas\DR Projeto\SGCO\DRPatrimonio.Server\bin\Debug\DR.Lib.RegraNegocio.pdb
+C:\DRSistemas\DR Projeto\SGCO\DRPatrimonio.Server\bin\Debug\DR.Lib.Winform.pdb
+C:\DRSistemas\DR Projeto\SGCO\DRPatrimonio.Server\bin\Debug\DR.Utils.pdb
+C:\DRSistemas\BinDR\DRPatrimonio.Server.dll
+C:\DRSistemas\BinDR\DRPatrimonio.Server.pdb
+C:\DRSistemas\DR Projeto\SGCO\DRPatrimonio.Server\obj\Debug\ResolveAssemblyReference.cache
+C:\DRSistemas\DR Projeto\SGCO\DRPatrimonio.Server\obj\Debug\DRPatrimonio.Server.dll
+C:\DRSistemas\DR Projeto\SGCO\DRPatrimonio.Server\obj\Debug\DRPatrimonio.Server.pdb
+F:\Desenvolvimento\DRSistemas\BinDR\DRPatrimonio.Server.dll
+F:\Desenvolvimento\DRSistemas\BinDR\DRPatrimonio.Server.pdb
+F:\Desenvolvimento\DRSistemas\DR Projeto\SGCO\DRPatrimonio.Server\obj\Debug\ResolveAssemblyReference.cache
+F:\Desenvolvimento\DRSistemas\DR Projeto\SGCO\DRPatrimonio.Server\obj\Debug\DRPatrimonio.Server.dll
+F:\Desenvolvimento\DRSistemas\DR Projeto\SGCO\DRPatrimonio.Server\obj\Debug\DRPatrimonio.Server.pdb

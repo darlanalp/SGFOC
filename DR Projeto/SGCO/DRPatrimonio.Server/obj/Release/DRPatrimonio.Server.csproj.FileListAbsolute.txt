@@ -1,0 +1,17 @@
+C:\DRSistemas\DR Projeto\SGCO\DRPatrimonio.Server\bin\Release\DRPatrimonio.Server.dll
+C:\DRSistemas\DR Projeto\SGCO\DRPatrimonio.Server\bin\Release\DRPatrimonio.Server.pdb
+C:\DRSistemas\DR Projeto\SGCO\DRPatrimonio.Server\bin\Release\DR.Lib.RegraNegocio.dll
+C:\DRSistemas\DR Projeto\SGCO\DRPatrimonio.Server\bin\Release\DR.Lib.Winform.dll
+C:\DRSistemas\DR Projeto\SGCO\DRPatrimonio.Server\bin\Release\DR.Sql.dll
+C:\DRSistemas\DR Projeto\SGCO\DRPatrimonio.Server\bin\Release\DR.Utils.dll
+C:\DRSistemas\DR Projeto\SGCO\DRPatrimonio.Server\bin\Release\DR.Lib.Filtro.dll
+C:\DRSistemas\DR Projeto\SGCO\DRPatrimonio.Server\bin\Release\DR.Login.dll
+C:\DRSistemas\DR Projeto\SGCO\DRPatrimonio.Server\bin\Release\DR.Lib.Filtro.pdb
+C:\DRSistemas\DR Projeto\SGCO\DRPatrimonio.Server\bin\Release\DR.Sql.pdb
+C:\DRSistemas\DR Projeto\SGCO\DRPatrimonio.Server\bin\Release\DR.Login.pdb
+C:\DRSistemas\DR Projeto\SGCO\DRPatrimonio.Server\bin\Release\DR.Lib.RegraNegocio.pdb
+C:\DRSistemas\DR Projeto\SGCO\DRPatrimonio.Server\bin\Release\DR.Lib.Winform.pdb
+C:\DRSistemas\DR Projeto\SGCO\DRPatrimonio.Server\bin\Release\DR.Utils.pdb
+C:\DRSistemas\DR Projeto\SGCO\DRPatrimonio.Server\obj\Release\ResolveAssemblyReference.cache
+C:\DRSistemas\DR Projeto\SGCO\DRPatrimonio.Server\obj\Release\DRPatrimonio.Server.dll
+C:\DRSistemas\DR Projeto\SGCO\DRPatrimonio.Server\obj\Release\DRPatrimonio.Server.pdb
