@@ -1,0 +1,37 @@
+C:\DRSistemas\DR Projeto\SGCO\DRGlobal.Form\bin\Debug\DRGlobal.Form.dll
+C:\DRSistemas\DR Projeto\SGCO\DRGlobal.Form\bin\Debug\DRGlobal.Form.pdb
+C:\DRSistemas\DR Projeto\SGCO\DRGlobal.Form\bin\Debug\DR.Lib.Filtro.dll
+C:\DRSistemas\DR Projeto\SGCO\DRGlobal.Form\bin\Debug\DR.Lib.RegraNegocio.dll
+C:\DRSistemas\DR Projeto\SGCO\DRGlobal.Form\bin\Debug\DR.Lib.Winform.dll
+C:\DRSistemas\DR Projeto\SGCO\DRGlobal.Form\bin\Debug\DR.Utils.dll
+C:\DRSistemas\DR Projeto\SGCO\DRGlobal.Form\bin\Debug\DRGlobal.Server.dll
+C:\DRSistemas\DR Projeto\SGCO\DRGlobal.Form\bin\Debug\DR.Login.dll
+C:\DRSistemas\DR Projeto\SGCO\DRGlobal.Form\bin\Debug\DR.Sql.dll
+C:\DRSistemas\DR Projeto\SGCO\DRGlobal.Form\bin\Debug\DR.Lib.Filtro.pdb
+C:\DRSistemas\DR Projeto\SGCO\DRGlobal.Form\bin\Debug\DRGlobal.Server.pdb
+C:\DRSistemas\DR Projeto\SGCO\DRGlobal.Form\bin\Debug\DR.Login.pdb
+C:\DRSistemas\DR Projeto\SGCO\DRGlobal.Form\bin\Debug\DR.Lib.RegraNegocio.pdb
+C:\DRSistemas\DR Projeto\SGCO\DRGlobal.Form\bin\Debug\DR.Lib.Winform.pdb
+C:\DRSistemas\DR Projeto\SGCO\DRGlobal.Form\bin\Debug\DR.Utils.pdb
+C:\DRSistemas\DR Projeto\SGCO\DRGlobal.Form\bin\Debug\DR.Sql.pdb
+C:\BinDR\DRGlobal.Form.dll
+C:\BinDR\DRGlobal.Form.pdb
+C:\DRSistemas\DR Projeto\SGCO\DRGlobal.Form\obj\Debug\ResolveAssemblyReference.cache
+C:\DRSistemas\DR Projeto\SGCO\DRGlobal.Form\obj\Debug\DRGlobal.Form.DRCadEmpresa.resources
+C:\DRSistemas\DR Projeto\SGCO\DRGlobal.Form\obj\Debug\DRGlobal.Form.DRCadUser.resources
+C:\DRSistemas\DR Projeto\SGCO\DRGlobal.Form\obj\Debug\DRGlobal.Form.Properties.Resources.resources
+C:\DRSistemas\DR Projeto\SGCO\DRGlobal.Form\obj\Debug\DRGlobal.Form.csproj.GenerateResource.Cache
+C:\DRSistemas\DR Projeto\SGCO\DRGlobal.Form\obj\Debug\DRGlobal.Form.dll
+C:\DRSistemas\DR Projeto\SGCO\DRGlobal.Form\obj\Debug\DRGlobal.Form.pdb
+F:\Desenvolvimento\BinDR\DRGlobal.Form.dll
+F:\Desenvolvimento\BinDR\DRGlobal.Form.pdb
+F:\Desenvolvimento\DRSistemas\DR Projeto\SGCO\DRGlobal.Form\obj\Debug\ResolveAssemblyReference.cache
+F:\Desenvolvimento\DRSistemas\DR Projeto\SGCO\DRGlobal.Form\obj\Debug\DRGlobal.Form.DRCadEmpresa.resources
+F:\Desenvolvimento\DRSistemas\DR Projeto\SGCO\DRGlobal.Form\obj\Debug\DRGlobal.Form.DRCadUser.resources
+F:\Desenvolvimento\DRSistemas\DR Projeto\SGCO\DRGlobal.Form\obj\Debug\DRGlobal.Form.Properties.Resources.resources
+F:\Desenvolvimento\DRSistemas\DR Projeto\SGCO\DRGlobal.Form\obj\Debug\ResGen.read.1.tlog
+F:\Desenvolvimento\DRSistemas\DR Projeto\SGCO\DRGlobal.Form\obj\Debug\ResGen.write.1.tlog
+F:\Desenvolvimento\DRSistemas\DR Projeto\SGCO\DRGlobal.Form\obj\Debug\DRGlobal.Form.dll
+F:\Desenvolvimento\DRSistemas\DR Projeto\SGCO\DRGlobal.Form\obj\Debug\DRGlobal.Form.pdb
+F:\Desenvolvimento\DRSistemas\DR Projeto\SGCO\DRGlobal.Form\obj\Debug\GenerateResource.read.1.tlog
+F:\Desenvolvimento\DRSistemas\DR Projeto\SGCO\DRGlobal.Form\obj\Debug\GenerateResource.write.1.tlog

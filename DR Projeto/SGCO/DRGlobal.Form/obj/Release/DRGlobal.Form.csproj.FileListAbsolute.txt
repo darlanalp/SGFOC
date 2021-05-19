@@ -1,0 +1,25 @@
+C:\DRSistemas\DR Projeto\SGCO\DRGlobal.Form\bin\Release\DRGlobal.Form.dll
+C:\DRSistemas\DR Projeto\SGCO\DRGlobal.Form\bin\Release\DRGlobal.Form.pdb
+C:\DRSistemas\DR Projeto\SGCO\DRGlobal.Form\bin\Release\DR.Lib.Filtro.dll
+C:\DRSistemas\DR Projeto\SGCO\DRGlobal.Form\bin\Release\DR.Lib.RegraNegocio.dll
+C:\DRSistemas\DR Projeto\SGCO\DRGlobal.Form\bin\Release\DR.Lib.Winform.dll
+C:\DRSistemas\DR Projeto\SGCO\DRGlobal.Form\bin\Release\DR.Utils.dll
+C:\DRSistemas\DR Projeto\SGCO\DRGlobal.Form\bin\Release\DRGlobal.Server.dll
+C:\DRSistemas\DR Projeto\SGCO\DRGlobal.Form\bin\Release\DR.Login.dll
+C:\DRSistemas\DR Projeto\SGCO\DRGlobal.Form\bin\Release\DR.Sql.dll
+C:\DRSistemas\DR Projeto\SGCO\DRGlobal.Form\bin\Release\DR.Lib.RegraNegocio.pdb
+C:\DRSistemas\DR Projeto\SGCO\DRGlobal.Form\bin\Release\DR.Login.pdb
+C:\DRSistemas\DR Projeto\SGCO\DRGlobal.Form\bin\Release\DR.Lib.Filtro.pdb
+C:\DRSistemas\DR Projeto\SGCO\DRGlobal.Form\bin\Release\DR.Lib.Winform.pdb
+C:\DRSistemas\DR Projeto\SGCO\DRGlobal.Form\bin\Release\DRGlobal.Server.pdb
+C:\DRSistemas\DR Projeto\SGCO\DRGlobal.Form\bin\Release\DR.Utils.pdb
+C:\DRSistemas\DR Projeto\SGCO\DRGlobal.Form\bin\Release\DR.Sql.pdb
+C:\DRSistemas\BinDR\DRGlobal.Form.dll
+C:\DRSistemas\BinDR\DRGlobal.Form.pdb
+C:\DRSistemas\DR Projeto\SGCO\DRGlobal.Form\obj\Release\ResolveAssemblyReference.cache
+C:\DRSistemas\DR Projeto\SGCO\DRGlobal.Form\obj\Release\DRGlobal.Form.DRCadEmpresa.resources
+C:\DRSistemas\DR Projeto\SGCO\DRGlobal.Form\obj\Release\DRGlobal.Form.DRCadUser.resources
+C:\DRSistemas\DR Projeto\SGCO\DRGlobal.Form\obj\Release\DRGlobal.Form.Properties.Resources.resources
+C:\DRSistemas\DR Projeto\SGCO\DRGlobal.Form\obj\Release\DRGlobal.Form.csproj.GenerateResource.Cache
+C:\DRSistemas\DR Projeto\SGCO\DRGlobal.Form\obj\Release\DRGlobal.Form.dll
+C:\DRSistemas\DR Projeto\SGCO\DRGlobal.Form\obj\Release\DRGlobal.Form.pdb
