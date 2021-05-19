@@ -1,0 +1,64 @@
+C:\BinDR\RelDemo.rdlc
+C:\BinDR\DRRelatorios.Rel.dll
+C:\BinDR\DRRelatorios.Rel.pdb
+C:\DRSistemas\BinDR\DRRelConferenciaDespesa.rdlc
+C:\DRSistemas\BinDR\DRRelEtapasAtividadeProjeto.rdlc
+C:\DRSistemas\BinDR\DRRelExtratoPagInvestidor.rdlc
+C:\DRSistemas\BinDR\DRRelDespesa_NaoClassificada.rdlc
+C:\DRSistemas\BinDR\DRRelAcompanhamentoInvest.rdlc
+C:\DRSistemas\BinDR\DRRelAcompanhamentoResumido.rdlc
+C:\DRSistemas\BinDR\DRRelAcompanhamento.rdlc
+C:\DRSistemas\BinDR\DRRelDespesa_Atividade.rdlc
+C:\DRSistemas\BinDR\DRRelEtapaAtividade.rdlc
+C:\DRSistemas\BinDR\DRRelInvetidor.rdlc
+C:\DRSistemas\BinDR\DRRelPatrimonio.rdlc
+C:\DRSistemas\BinDR\RelDemo.rdlc
+C:\DRSistemas\BinDR\DRRelatorios.Rel.dll
+C:\DRSistemas\BinDR\DRRelatorios.Rel.pdb
+C:\DRSistemas\DR Projeto\SGCO\DRRelatorios.Rel\obj\Debug\ResolveAssemblyReference.cache
+C:\DRSistemas\DR Projeto\SGCO\DRRelatorios.Rel\obj\Debug\DRRelatorios.Rel.DRFormConferenciaDespesas.resources
+C:\DRSistemas\DR Projeto\SGCO\DRRelatorios.Rel\obj\Debug\DRRelatorios.Rel.DRFormRelAcompInvestidor.resources
+C:\DRSistemas\DR Projeto\SGCO\DRRelatorios.Rel\obj\Debug\DRRelatorios.Rel.DRFORMRelDespesaAtividade.resources
+C:\DRSistemas\DR Projeto\SGCO\DRRelatorios.Rel\obj\Debug\DRPatrimonio.Form.DRFormRelPatrimonio.resources
+C:\DRSistemas\DR Projeto\SGCO\DRRelatorios.Rel\obj\Debug\DRRelatorios.Rel.DRFormRelAcompanhamento.resources
+C:\DRSistemas\DR Projeto\SGCO\DRRelatorios.Rel\obj\Debug\DRRelatorios.Rel.DRRelExtratoPagInvestidor.resources
+C:\DRSistemas\DR Projeto\SGCO\DRRelatorios.Rel\obj\Debug\DRRelatorios.Rel.DRSelecAtividade_Etapa.resources
+C:\DRSistemas\DR Projeto\SGCO\DRRelatorios.Rel\obj\Debug\DRRelatorios.Rel.Properties.Resources.resources
+C:\DRSistemas\DR Projeto\SGCO\DRRelatorios.Rel\obj\Debug\DRRelatorios.Rel.csproj.GenerateResource.Cache
+C:\DRSistemas\DR Projeto\SGCO\DRRelatorios.Rel\obj\Debug\RdlCompile.cache
+C:\DRSistemas\DR Projeto\SGCO\DRRelatorios.Rel\obj\Debug\RdlCompile.compiled
+C:\DRSistemas\DR Projeto\SGCO\DRRelatorios.Rel\obj\Debug\DRRelatorios.Rel.dll
+C:\DRSistemas\DR Projeto\SGCO\DRRelatorios.Rel\obj\Debug\DRRelatorios.Rel.pdb
+C:\DRSistemas\BinDR\DRRelCotas.rdlc
+F:\Desenvolvimento\DRSistemas\DR Projeto\SGCO\DRRelatorios.Rel\obj\Debug\ResolveAssemblyReference.cache
+F:\Desenvolvimento\DRSistemas\DR Projeto\SGCO\DRRelatorios.Rel\obj\Debug\DRRelatorios.Rel.DRFormConferenciaDespesas.resources
+F:\Desenvolvimento\DRSistemas\DR Projeto\SGCO\DRRelatorios.Rel\obj\Debug\DRRelatorios.Rel.DRFormRelAcompInvestidor.resources
+F:\Desenvolvimento\DRSistemas\DR Projeto\SGCO\DRRelatorios.Rel\obj\Debug\DRRelatorios.Rel.DRFORMRelDespesaAtividade.resources
+F:\Desenvolvimento\DRSistemas\DR Projeto\SGCO\DRRelatorios.Rel\obj\Debug\DRPatrimonio.Form.DRFormRelPatrimonio.resources
+F:\Desenvolvimento\DRSistemas\DR Projeto\SGCO\DRRelatorios.Rel\obj\Debug\DRRelatorios.Rel.DRFormRelAcompanhamento.resources
+F:\Desenvolvimento\DRSistemas\DR Projeto\SGCO\DRRelatorios.Rel\obj\Debug\DRRelatorios.Rel.DRRelExtratoPagInvestidor.resources
+F:\Desenvolvimento\DRSistemas\DR Projeto\SGCO\DRRelatorios.Rel\obj\Debug\DRRelatorios.Rel.DRSelecAtividade_Etapa.resources
+F:\Desenvolvimento\DRSistemas\DR Projeto\SGCO\DRRelatorios.Rel\obj\Debug\DRRelatorios.Rel.Properties.Resources.resources
+F:\Desenvolvimento\DRSistemas\DR Projeto\SGCO\DRRelatorios.Rel\obj\Debug\ResGen.read.1.tlog
+F:\Desenvolvimento\DRSistemas\DR Projeto\SGCO\DRRelatorios.Rel\obj\Debug\ResGen.write.1.tlog
+F:\Desenvolvimento\DRSistemas\DR Projeto\SGCO\DRRelatorios.Rel\obj\Debug\RdlCompile.cache
+F:\Desenvolvimento\DRSistemas\DR Projeto\SGCO\DRRelatorios.Rel\obj\Debug\RdlCompile.compiled
+F:\Desenvolvimento\DRSistemas\DR Projeto\SGCO\DRRelatorios.Rel\obj\Debug\DRRelatorios.Rel.dll
+F:\Desenvolvimento\DRSistemas\DR Projeto\SGCO\DRRelatorios.Rel\obj\Debug\DRRelatorios.Rel.pdb
+F:\Desenvolvimento\DRSistemas\BinDR\DRRelCotas.rdlc
+F:\Desenvolvimento\DRSistemas\BinDR\DRRelConferenciaDespesa.rdlc
+F:\Desenvolvimento\DRSistemas\BinDR\DRRelEtapasAtividadeProjeto.rdlc
+F:\Desenvolvimento\DRSistemas\BinDR\DRRelExtratoPagInvestidor.rdlc
+F:\Desenvolvimento\DRSistemas\BinDR\DRRelDespesa_NaoClassificada.rdlc
+F:\Desenvolvimento\DRSistemas\BinDR\DRRelAcompanhamentoInvest.rdlc
+F:\Desenvolvimento\DRSistemas\BinDR\DRRelAcompanhamentoResumido.rdlc
+F:\Desenvolvimento\DRSistemas\BinDR\DRRelAcompanhamento.rdlc
+F:\Desenvolvimento\DRSistemas\BinDR\DRRelDespesa_Atividade.rdlc
+F:\Desenvolvimento\DRSistemas\BinDR\DRRelEtapaAtividade.rdlc
+F:\Desenvolvimento\DRSistemas\BinDR\DRRelInvetidor.rdlc
+F:\Desenvolvimento\DRSistemas\BinDR\DRRelPatrimonio.rdlc
+F:\Desenvolvimento\DRSistemas\BinDR\RelDemo.rdlc
+F:\Desenvolvimento\DRSistemas\BinDR\DRRelatorios.Rel.dll
+F:\Desenvolvimento\DRSistemas\BinDR\DRRelatorios.Rel.pdb
+F:\Desenvolvimento\DRSistemas\DR Projeto\SGCO\DRRelatorios.Rel\obj\Debug\GenerateResource.read.1.tlog
+F:\Desenvolvimento\DRSistemas\DR Projeto\SGCO\DRRelatorios.Rel\obj\Debug\GenerateResource.write.1.tlog
