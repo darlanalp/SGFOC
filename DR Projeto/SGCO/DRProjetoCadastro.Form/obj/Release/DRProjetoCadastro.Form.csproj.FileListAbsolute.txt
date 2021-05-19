@@ -1,0 +1,37 @@
+C:\DRSistemas\DR Projeto\SGCO\DRProjetoCadastro.Form\bin\Release\DRProjetoCadastro.Form.dll
+C:\DRSistemas\DR Projeto\SGCO\DRProjetoCadastro.Form\bin\Release\DRProjetoCadastro.Form.pdb
+C:\DRSistemas\DR Projeto\SGCO\DRProjetoCadastro.Form\bin\Release\DR.Lib.Filtro.dll
+C:\DRSistemas\DR Projeto\SGCO\DRProjetoCadastro.Form\bin\Release\DR.Lib.RegraNegocio.dll
+C:\DRSistemas\DR Projeto\SGCO\DRProjetoCadastro.Form\bin\Release\DR.Lib.Winform.dll
+C:\DRSistemas\DR Projeto\SGCO\DRProjetoCadastro.Form\bin\Release\DR.Utils.dll
+C:\DRSistemas\DR Projeto\SGCO\DRProjetoCadastro.Form\bin\Release\DRProjetoCadastro.Server.dll
+C:\DRSistemas\DR Projeto\SGCO\DRProjetoCadastro.Form\bin\Release\DR.Login.dll
+C:\DRSistemas\DR Projeto\SGCO\DRProjetoCadastro.Form\bin\Release\DR.Sql.dll
+C:\DRSistemas\DR Projeto\SGCO\DRProjetoCadastro.Form\bin\Release\DR.Lib.RegraNegocio.pdb
+C:\DRSistemas\DR Projeto\SGCO\DRProjetoCadastro.Form\bin\Release\DR.Login.pdb
+C:\DRSistemas\DR Projeto\SGCO\DRProjetoCadastro.Form\bin\Release\DR.Lib.Filtro.pdb
+C:\DRSistemas\DR Projeto\SGCO\DRProjetoCadastro.Form\bin\Release\DRProjetoCadastro.Server.pdb
+C:\DRSistemas\DR Projeto\SGCO\DRProjetoCadastro.Form\bin\Release\DR.Lib.Winform.pdb
+C:\DRSistemas\DR Projeto\SGCO\DRProjetoCadastro.Form\bin\Release\DR.Utils.pdb
+C:\DRSistemas\DR Projeto\SGCO\DRProjetoCadastro.Form\bin\Release\DR.Sql.pdb
+C:\DRSistemas\BinDR\DRProjetoCadastro.Form.dll
+C:\DRSistemas\BinDR\DRProjetoCadastro.Form.pdb
+C:\DRSistemas\DR Projeto\SGCO\DRProjetoCadastro.Form\obj\Release\ResolveAssemblyReference.cache
+C:\DRSistemas\DR Projeto\SGCO\DRProjetoCadastro.Form\obj\Release\DRProjetoCadastro.Form.DRCadAtividade.resources
+C:\DRSistemas\DR Projeto\SGCO\DRProjetoCadastro.Form\obj\Release\DRProjetoCadastro.Form.DRCadEtapa.resources
+C:\DRSistemas\DR Projeto\SGCO\DRProjetoCadastro.Form\obj\Release\DRProjetoCadastro.Form.DRCadFornecedor.resources
+C:\DRSistemas\DR Projeto\SGCO\DRProjetoCadastro.Form\obj\Release\DRProjetoCadastro.Form.DRCadInvestidor.resources
+C:\DRSistemas\DR Projeto\SGCO\DRProjetoCadastro.Form\obj\Release\DRProjetoCadastro.Form.DRCadProjeto.resources
+C:\DRSistemas\DR Projeto\SGCO\DRProjetoCadastro.Form\obj\Release\DRProjetoCadastro.Form.DRCronograma.resources
+C:\DRSistemas\DR Projeto\SGCO\DRProjetoCadastro.Form\obj\Release\DRProjetoCadastro.Form.DRDespesaLan.resources
+C:\DRSistemas\DR Projeto\SGCO\DRProjetoCadastro.Form\obj\Release\DRProjetoCadastro.Form.DRFormAguarde.resources
+C:\DRSistemas\DR Projeto\SGCO\DRProjetoCadastro.Form\obj\Release\DRProjetoCadastro.Form.DRFormDespesa.resources
+C:\DRSistemas\DR Projeto\SGCO\DRProjetoCadastro.Form\obj\Release\DRProjetoCadastro.Form.DRGraficoPercentualObra.resources
+C:\DRSistemas\DR Projeto\SGCO\DRProjetoCadastro.Form\obj\Release\DRProjetoCadastro.Form.DRInvestidorLan.resources
+C:\DRSistemas\DR Projeto\SGCO\DRProjetoCadastro.Form\obj\Release\DRProjetoCadastro.Form.DRManutencaoInvestidor.resources
+C:\DRSistemas\DR Projeto\SGCO\DRProjetoCadastro.Form\obj\Release\DRProjetoCadastro.Form.DRSelectProjeto.resources
+C:\DRSistemas\DR Projeto\SGCO\DRProjetoCadastro.Form\obj\Release\DRProjetoCadastro.Form.Properties.Resources.resources
+C:\DRSistemas\DR Projeto\SGCO\DRProjetoCadastro.Form\obj\Release\DRProjetoCadastro.Form.csproj.GenerateResource.Cache
+C:\DRSistemas\DR Projeto\SGCO\DRProjetoCadastro.Form\obj\Release\DRProjetoCadastro.Form.dll
+C:\DRSistemas\DR Projeto\SGCO\DRProjetoCadastro.Form\obj\Release\DRProjetoCadastro.Form.pdb
+C:\DRSistemas\DR Projeto\SGCO\DRProjetoCadastro.Form\obj\Release\DRProjetoCadastro.Form.DRCadRendimento.resources

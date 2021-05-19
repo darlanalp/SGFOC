@@ -1,0 +1,49 @@
+C:\BinDR\DRProjetoCadastro.Form.dll
+C:\BinDR\DRProjetoCadastro.Form.pdb
+C:\DRSistemas\BinDR\DRProjetoCadastro.Form.dll
+C:\DRSistemas\BinDR\DRProjetoCadastro.Form.pdb
+C:\DRSistemas\DR Projeto\SGCO\DRProjetoCadastro.Form\obj\Debug\ResolveAssemblyReference.cache
+C:\DRSistemas\DR Projeto\SGCO\DRProjetoCadastro.Form\obj\Debug\DRProjetoCadastro.Form.DRCadAtividade.resources
+C:\DRSistemas\DR Projeto\SGCO\DRProjetoCadastro.Form\obj\Debug\DRProjetoCadastro.Form.DRCadEtapa.resources
+C:\DRSistemas\DR Projeto\SGCO\DRProjetoCadastro.Form\obj\Debug\DRProjetoCadastro.Form.DRCadFornecedor.resources
+C:\DRSistemas\DR Projeto\SGCO\DRProjetoCadastro.Form\obj\Debug\DRProjetoCadastro.Form.DRCadInvestidor.resources
+C:\DRSistemas\DR Projeto\SGCO\DRProjetoCadastro.Form\obj\Debug\DRProjetoCadastro.Form.DRCadProjeto.resources
+C:\DRSistemas\DR Projeto\SGCO\DRProjetoCadastro.Form\obj\Debug\DRProjetoCadastro.Form.DRCadRendimento.resources
+C:\DRSistemas\DR Projeto\SGCO\DRProjetoCadastro.Form\obj\Debug\DRProjetoCadastro.Form.DRCronograma.resources
+C:\DRSistemas\DR Projeto\SGCO\DRProjetoCadastro.Form\obj\Debug\DRProjetoCadastro.Form.DRDespesaLan.resources
+C:\DRSistemas\DR Projeto\SGCO\DRProjetoCadastro.Form\obj\Debug\DRProjetoCadastro.Form.DRFormAguarde.resources
+C:\DRSistemas\DR Projeto\SGCO\DRProjetoCadastro.Form\obj\Debug\DRProjetoCadastro.Form.DRFormDespesa.resources
+C:\DRSistemas\DR Projeto\SGCO\DRProjetoCadastro.Form\obj\Debug\DRProjetoCadastro.Form.DRGraficoPercentualObra.resources
+C:\DRSistemas\DR Projeto\SGCO\DRProjetoCadastro.Form\obj\Debug\DRProjetoCadastro.Form.DRInvestidorLan.resources
+C:\DRSistemas\DR Projeto\SGCO\DRProjetoCadastro.Form\obj\Debug\DRProjetoCadastro.Form.DRManutencaoInvestidor.resources
+C:\DRSistemas\DR Projeto\SGCO\DRProjetoCadastro.Form\obj\Debug\DRProjetoCadastro.Form.DRSelectProjeto.resources
+C:\DRSistemas\DR Projeto\SGCO\DRProjetoCadastro.Form\obj\Debug\DRProjetoCadastro.Form.Properties.Resources.resources
+C:\DRSistemas\DR Projeto\SGCO\DRProjetoCadastro.Form\obj\Debug\DRProjetoCadastro.Form.csproj.GenerateResource.Cache
+C:\DRSistemas\DR Projeto\SGCO\DRProjetoCadastro.Form\obj\Debug\DRProjetoCadastro.Form.dll
+C:\DRSistemas\DR Projeto\SGCO\DRProjetoCadastro.Form\obj\Debug\DRProjetoCadastro.Form.pdb
+C:\DRSistemas\DR Projeto\SGCO\DRProjetoCadastro.Form\obj\Debug\DRProjetoCadastro.Form.DRCadCota.resources
+F:\Desenvolvimento\DRSistemas\DR Projeto\SGCO\DRProjetoCadastro.Form\obj\Debug\ResolveAssemblyReference.cache
+F:\Desenvolvimento\DRSistemas\DR Projeto\SGCO\DRProjetoCadastro.Form\obj\Debug\DRProjetoCadastro.Form.DRCadCota.resources
+F:\Desenvolvimento\DRSistemas\DR Projeto\SGCO\DRProjetoCadastro.Form\obj\Debug\DRProjetoCadastro.Form.DRCadAtividade.resources
+F:\Desenvolvimento\DRSistemas\DR Projeto\SGCO\DRProjetoCadastro.Form\obj\Debug\DRProjetoCadastro.Form.DRCadEtapa.resources
+F:\Desenvolvimento\DRSistemas\DR Projeto\SGCO\DRProjetoCadastro.Form\obj\Debug\DRProjetoCadastro.Form.DRCadFornecedor.resources
+F:\Desenvolvimento\DRSistemas\DR Projeto\SGCO\DRProjetoCadastro.Form\obj\Debug\DRProjetoCadastro.Form.DRCadInvestidor.resources
+F:\Desenvolvimento\DRSistemas\DR Projeto\SGCO\DRProjetoCadastro.Form\obj\Debug\DRProjetoCadastro.Form.DRCadProjeto.resources
+F:\Desenvolvimento\DRSistemas\DR Projeto\SGCO\DRProjetoCadastro.Form\obj\Debug\DRProjetoCadastro.Form.DRCadRendimento.resources
+F:\Desenvolvimento\DRSistemas\DR Projeto\SGCO\DRProjetoCadastro.Form\obj\Debug\DRProjetoCadastro.Form.DRCronograma.resources
+F:\Desenvolvimento\DRSistemas\DR Projeto\SGCO\DRProjetoCadastro.Form\obj\Debug\DRProjetoCadastro.Form.DRDespesaLan.resources
+F:\Desenvolvimento\DRSistemas\DR Projeto\SGCO\DRProjetoCadastro.Form\obj\Debug\DRProjetoCadastro.Form.DRFormAguarde.resources
+F:\Desenvolvimento\DRSistemas\DR Projeto\SGCO\DRProjetoCadastro.Form\obj\Debug\DRProjetoCadastro.Form.DRFormDespesa.resources
+F:\Desenvolvimento\DRSistemas\DR Projeto\SGCO\DRProjetoCadastro.Form\obj\Debug\DRProjetoCadastro.Form.DRGraficoPercentualObra.resources
+F:\Desenvolvimento\DRSistemas\DR Projeto\SGCO\DRProjetoCadastro.Form\obj\Debug\DRProjetoCadastro.Form.DRInvestidorLan.resources
+F:\Desenvolvimento\DRSistemas\DR Projeto\SGCO\DRProjetoCadastro.Form\obj\Debug\DRProjetoCadastro.Form.DRManutencaoInvestidor.resources
+F:\Desenvolvimento\DRSistemas\DR Projeto\SGCO\DRProjetoCadastro.Form\obj\Debug\DRProjetoCadastro.Form.DRSelectProjeto.resources
+F:\Desenvolvimento\DRSistemas\DR Projeto\SGCO\DRProjetoCadastro.Form\obj\Debug\DRProjetoCadastro.Form.Properties.Resources.resources
+F:\Desenvolvimento\DRSistemas\DR Projeto\SGCO\DRProjetoCadastro.Form\obj\Debug\ResGen.read.1.tlog
+F:\Desenvolvimento\DRSistemas\DR Projeto\SGCO\DRProjetoCadastro.Form\obj\Debug\ResGen.write.1.tlog
+F:\Desenvolvimento\DRSistemas\DR Projeto\SGCO\DRProjetoCadastro.Form\obj\Debug\DRProjetoCadastro.Form.dll
+F:\Desenvolvimento\DRSistemas\DR Projeto\SGCO\DRProjetoCadastro.Form\obj\Debug\DRProjetoCadastro.Form.pdb
+F:\Desenvolvimento\DRSistemas\DR Projeto\SGCO\DRProjetoCadastro.Form\obj\Debug\GenerateResource.read.1.tlog
+F:\Desenvolvimento\DRSistemas\DR Projeto\SGCO\DRProjetoCadastro.Form\obj\Debug\GenerateResource.write.1.tlog
+F:\Desenvolvimento\DRSistemas\BinDR\DRProjetoCadastro.Form.dll
+F:\Desenvolvimento\DRSistemas\BinDR\DRProjetoCadastro.Form.pdb
