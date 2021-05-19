@@ -1,0 +1,24 @@
+C:\DRSistemas\BinDR\SGFOC.exe
+C:\DRSistemas\BinDR\SGFOC.pdb
+C:\DRSistemas\DR Projeto\SGCO\DRProjetoMain\obj\Debug\ResolveAssemblyReference.cache
+C:\DRSistemas\DR Projeto\SGCO\DRProjetoMain\obj\Debug\SGFOC.DRFormBackupSQL.resources
+C:\DRSistemas\DR Projeto\SGCO\DRProjetoMain\obj\Debug\DRProjetoMain.SGFOC.resources
+C:\DRSistemas\DR Projeto\SGCO\DRProjetoMain\obj\Debug\SGFOC.Properties.Resources.resources
+C:\DRSistemas\DR Projeto\SGCO\DRProjetoMain\obj\Debug\SGFOC.csproj.GenerateResource.Cache
+C:\DRSistemas\DR Projeto\SGCO\DRProjetoMain\obj\Debug\SGFOC.exe
+C:\DRSistemas\DR Projeto\SGCO\DRProjetoMain\obj\Debug\SGFOC.pdb
+C:\DRSistemas\DR Projeto\SGCO\DRProjetoMain\obj\Debug\SGFOC.AboutBox.resources
+F:\Desenvolvimento\DRSistemas\DR Projeto\SGCO\DRProjetoMain\obj\Debug\SGFOC.exe
+F:\Desenvolvimento\DRSistemas\DR Projeto\SGCO\DRProjetoMain\obj\Debug\SGFOC.pdb
+F:\Desenvolvimento\DRSistemas\DR Projeto\SGCO\DRProjetoMain\obj\Debug\ResolveAssemblyReference.cache
+F:\Desenvolvimento\DRSistemas\DR Projeto\SGCO\DRProjetoMain\obj\Debug\SGFOC.AboutBox.resources
+F:\Desenvolvimento\DRSistemas\DR Projeto\SGCO\DRProjetoMain\obj\Debug\SGFOC.DRFormBackupSQL.resources
+F:\Desenvolvimento\DRSistemas\DR Projeto\SGCO\DRProjetoMain\obj\Debug\DRProjetoMain.SGFOC.resources
+F:\Desenvolvimento\DRSistemas\DR Projeto\SGCO\DRProjetoMain\obj\Debug\SGFOC.Properties.Resources.resources
+F:\Desenvolvimento\DRSistemas\DR Projeto\SGCO\DRProjetoMain\obj\Debug\ResGen.read.1.tlog
+F:\Desenvolvimento\DRSistemas\DR Projeto\SGCO\DRProjetoMain\obj\Debug\ResGen.write.1.tlog
+F:\Desenvolvimento\DRSistemas\BinDR\SGFOC.exe.config
+F:\Desenvolvimento\DRSistemas\BinDR\SGFOC.exe
+F:\Desenvolvimento\DRSistemas\BinDR\SGFOC.pdb
+F:\Desenvolvimento\DRSistemas\DR Projeto\SGCO\DRProjetoMain\obj\Debug\GenerateResource.read.1.tlog
+F:\Desenvolvimento\DRSistemas\DR Projeto\SGCO\DRProjetoMain\obj\Debug\GenerateResource.write.1.tlog

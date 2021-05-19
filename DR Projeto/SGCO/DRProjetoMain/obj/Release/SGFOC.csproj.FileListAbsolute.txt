@@ -1,0 +1,9 @@
+C:\DRSistemas\DR Projeto\SGCO\DRProjetoMain\obj\Release\ResolveAssemblyReference.cache
+C:\DRSistemas\DR Projeto\SGCO\DRProjetoMain\obj\Release\DRProjetoMain.SGFOC.resources
+C:\DRSistemas\DR Projeto\SGCO\DRProjetoMain\obj\Release\SGFOC.Properties.Resources.resources
+C:\DRSistemas\DR Projeto\SGCO\DRProjetoMain\obj\Release\SGFOC.csproj.GenerateResource.Cache
+C:\DRSistemas\BinDR\SGFOC.exe
+C:\DRSistemas\BinDR\SGFOC.pdb
+C:\DRSistemas\DR Projeto\SGCO\DRProjetoMain\obj\Release\SGFOC.exe
+C:\DRSistemas\DR Projeto\SGCO\DRProjetoMain\obj\Release\SGFOC.pdb
+C:\DRSistemas\DR Projeto\SGCO\DRProjetoMain\obj\Release\SGFOC.DRFormBackupSQL.resources

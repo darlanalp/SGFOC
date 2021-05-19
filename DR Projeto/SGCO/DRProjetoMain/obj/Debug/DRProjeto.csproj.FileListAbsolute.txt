@@ -1,0 +1,12 @@
+C:\BinDR\DRProjetoMain.exe.config
+C:\BinDR\DRProjetoMain.exe
+C:\BinDR\DRProjetoMain.pdb
+C:\DRSistemas\BinDR\DRProjetoMain.exe.config
+C:\DRSistemas\BinDR\DRProjetoMain.exe
+C:\DRSistemas\BinDR\DRProjetoMain.pdb
+C:\DRSistemas\DR Projeto\SGCO\DRProjetoMain\obj\Debug\ResolveAssemblyReference.cache
+C:\DRSistemas\DR Projeto\SGCO\DRProjetoMain\obj\Debug\DRProjetoMain.DRProjetoMain.resources
+C:\DRSistemas\DR Projeto\SGCO\DRProjetoMain\obj\Debug\DRProjetoMain.Properties.Resources.resources
+C:\DRSistemas\DR Projeto\SGCO\DRProjetoMain\obj\Debug\DRProjeto.csproj.GenerateResource.Cache
+C:\DRSistemas\DR Projeto\SGCO\DRProjetoMain\obj\Debug\DRProjetoMain.exe
+C:\DRSistemas\DR Projeto\SGCO\DRProjetoMain\obj\Debug\DRProjetoMain.pdb
