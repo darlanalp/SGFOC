@@ -1,0 +1,22 @@
+C:\BinDR\DRProjetoCadastro.Server.dll.config
+C:\BinDR\DRProjetoCadastro.Server.dll
+C:\BinDR\DRProjetoCadastro.Server.pdb
+C:\DRSistemas\BinDR\DRProjetoCadastro.BLL.dll.config
+C:\DRSistemas\BinDR\DRProjetoCadastro.BLL.dll
+C:\DRSistemas\BinDR\DRProjetoCadastro.BLL.pdb
+C:\DRSistemas\DR Projeto\SGCO\DRProjetoCadastro.Server\obj\Debug\ResolveAssemblyReference.cache
+C:\DRSistemas\DR Projeto\SGCO\DRProjetoCadastro.Server\obj\Debug\DRProjetoCadastro.BLL.Properties.Resources.resources
+C:\DRSistemas\DR Projeto\SGCO\DRProjetoCadastro.Server\obj\Debug\DRProjetoCadastro.Server.csproj.GenerateResource.Cache
+C:\DRSistemas\DR Projeto\SGCO\DRProjetoCadastro.Server\obj\Debug\DRProjetoCadastro.BLL.dll
+C:\DRSistemas\DR Projeto\SGCO\DRProjetoCadastro.Server\obj\Debug\DRProjetoCadastro.BLL.pdb
+F:\Desenvolvimento\DRSistemas\BinDR\DRProjetoCadastro.BLL.dll.config
+F:\Desenvolvimento\DRSistemas\BinDR\DRProjetoCadastro.BLL.dll
+F:\Desenvolvimento\DRSistemas\BinDR\DRProjetoCadastro.BLL.pdb
+F:\Desenvolvimento\DRSistemas\DR Projeto\SGCO\DRProjetoCadastro.Server\obj\Debug\ResolveAssemblyReference.cache
+F:\Desenvolvimento\DRSistemas\DR Projeto\SGCO\DRProjetoCadastro.Server\obj\Debug\DRProjetoCadastro.BLL.Properties.Resources.resources
+F:\Desenvolvimento\DRSistemas\DR Projeto\SGCO\DRProjetoCadastro.Server\obj\Debug\ResGen.read.1.tlog
+F:\Desenvolvimento\DRSistemas\DR Projeto\SGCO\DRProjetoCadastro.Server\obj\Debug\ResGen.write.1.tlog
+F:\Desenvolvimento\DRSistemas\DR Projeto\SGCO\DRProjetoCadastro.Server\obj\Debug\DRProjetoCadastro.BLL.dll
+F:\Desenvolvimento\DRSistemas\DR Projeto\SGCO\DRProjetoCadastro.Server\obj\Debug\DRProjetoCadastro.BLL.pdb
+F:\Desenvolvimento\DRSistemas\DR Projeto\SGCO\DRProjetoCadastro.Server\obj\Debug\GenerateResource.read.1.tlog
+F:\Desenvolvimento\DRSistemas\DR Projeto\SGCO\DRProjetoCadastro.Server\obj\Debug\GenerateResource.write.1.tlog

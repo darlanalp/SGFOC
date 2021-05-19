@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DSGraficos" targetNamespace="http://tempuri.org/DSGraficos.xsd" xmlns:mstns="http://tempuri.org/DSGraficos.xsd" xmlns="http://tempuri.org/DSGraficos.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="DRProjetoConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="DRProjetoConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.DRProjetoCadastro.BLL.Properties.Settings.GlobalReference.Default.DRProjetoConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DSGraficos" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="DSGraficos" msprop:Generator_DataSetName="DSGraficos" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DRETAPAORCADOREALIZADO" msprop:Generator_UserTableName="DRETAPAORCADOREALIZADO" msprop:Generator_RowDeletedName="DRETAPAORCADOREALIZADORowDeleted" msprop:Generator_RowChangedName="DRETAPAORCADOREALIZADORowChanged" msprop:Generator_RowClassName="DRETAPAORCADOREALIZADORow" msprop:Generator_RowChangingName="DRETAPAORCADOREALIZADORowChanging" msprop:Generator_RowEvArgName="DRETAPAORCADOREALIZADORowChangeEvent" msprop:Generator_RowEvHandlerName="DRETAPAORCADOREALIZADORowChangeEventHandler" msprop:Generator_TableClassName="DRETAPAORCADOREALIZADODataTable" msprop:Generator_TableVarName="tableDRETAPAORCADOREALIZADO" msprop:Generator_RowDeletingName="DRETAPAORCADOREALIZADORowDeleting" msprop:Generator_TablePropName="DRETAPAORCADOREALIZADO">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Descricao" msprop:Generator_UserColumnName="Descricao" msprop:Generator_ColumnVarNameInTable="columnDescricao" msprop:Generator_ColumnPropNameInRow="Descricao" msprop:Generator_ColumnPropNameInTable="DescricaoColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="60" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ORCADO" msdata:ReadOnly="true" msprop:Generator_UserColumnName="ORCADO" msprop:Generator_ColumnVarNameInTable="columnORCADO" msprop:Generator_ColumnPropNameInRow="ORCADO" msprop:Generator_ColumnPropNameInTable="ORCADOColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="EXECUTADO" msdata:ReadOnly="true" msprop:Generator_UserColumnName="EXECUTADO" msprop:Generator_ColumnVarNameInTable="columnEXECUTADO" msprop:Generator_ColumnPropNameInRow="EXECUTADO" msprop:Generator_ColumnPropNameInTable="EXECUTADOColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="CodEtapa" msprop:Generator_UserColumnName="CodEtapa" msprop:Generator_ColumnVarNameInTable="columnCodEtapa" msprop:Generator_ColumnPropNameInRow="CodEtapa" msprop:Generator_ColumnPropNameInTable="CodEtapaColumn">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="25" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="DRETAPAPERCENTUALCOMPLETUDE" msprop:Generator_UserTableName="DRETAPAPERCENTUALCOMPLETUDE" msprop:Generator_RowDeletedName="DRETAPAPERCENTUALCOMPLETUDERowDeleted" msprop:Generator_RowChangedName="DRETAPAPERCENTUALCOMPLETUDERowChanged" msprop:Generator_RowClassName="DRETAPAPERCENTUALCOMPLETUDERow" msprop:Generator_RowChangingName="DRETAPAPERCENTUALCOMPLETUDERowChanging" msprop:Generator_RowEvArgName="DRETAPAPERCENTUALCOMPLETUDERowChangeEvent" msprop:Generator_RowEvHandlerName="DRETAPAPERCENTUALCOMPLETUDERowChangeEventHandler" msprop:Generator_TableClassName="DRETAPAPERCENTUALCOMPLETUDEDataTable" msprop:Generator_TableVarName="tableDRETAPAPERCENTUALCOMPLETUDE" msprop:Generator_RowDeletingName="DRETAPAPERCENTUALCOMPLETUDERowDeleting" msprop:Generator_TablePropName="DRETAPAPERCENTUALCOMPLETUDE">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="CodEtapa" msprop:Generator_UserColumnName="CodEtapa" msprop:Generator_ColumnVarNameInTable="columnCodEtapa" msprop:Generator_ColumnPropNameInRow="CodEtapa" msprop:Generator_ColumnPropNameInTable="CodEtapaColumn">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="25" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Descricao" msprop:Generator_UserColumnName="Descricao" msprop:Generator_ColumnVarNameInTable="columnDescricao" msprop:Generator_ColumnPropNameInRow="Descricao" msprop:Generator_ColumnPropNameInTable="DescricaoColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="60" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="PERCENTUALCOMPLETUDE" msdata:ReadOnly="true" msprop:Generator_UserColumnName="PERCENTUALCOMPLETUDE" msprop:Generator_ColumnVarNameInTable="columnPERCENTUALCOMPLETUDE" msprop:Generator_ColumnPropNameInRow="PERCENTUALCOMPLETUDE" msprop:Generator_ColumnPropNameInTable="PERCENTUALCOMPLETUDEColumn" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="DRProjetoPercentualCompletude" msprop:Generator_UserTableName="DRProjetoPercentualCompletude" msprop:Generator_RowDeletedName="DRProjetoPercentualCompletudeRowDeleted" msprop:Generator_RowChangedName="DRProjetoPercentualCompletudeRowChanged" msprop:Generator_RowClassName="DRProjetoPercentualCompletudeRow" msprop:Generator_RowChangingName="DRProjetoPercentualCompletudeRowChanging" msprop:Generator_RowEvArgName="DRProjetoPercentualCompletudeRowChangeEvent" msprop:Generator_RowEvHandlerName="DRProjetoPercentualCompletudeRowChangeEventHandler" msprop:Generator_TableClassName="DRProjetoPercentualCompletudeDataTable" msprop:Generator_TableVarName="tableDRProjetoPercentualCompletude" msprop:Generator_RowDeletingName="DRProjetoPercentualCompletudeRowDeleting" msprop:Generator_TablePropName="DRProjetoPercentualCompletude">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="CodigoPrj" msprop:Generator_UserColumnName="CodigoPrj" msprop:Generator_ColumnVarNameInTable="columnCodigoPrj" msprop:Generator_ColumnPropNameInRow="CodigoPrj" msprop:Generator_ColumnPropNameInTable="CodigoPrjColumn" type="xs:int" />
+              <xs:element name="Nome" msprop:Generator_UserColumnName="Nome" msprop:Generator_ColumnVarNameInTable="columnNome" msprop:Generator_ColumnPropNameInRow="Nome" msprop:Generator_ColumnPropNameInTable="NomeColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="60" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="PERCENTUALCOMPLETUDE" msdata:ReadOnly="true" msprop:Generator_UserColumnName="PERCENTUALCOMPLETUDE" msprop:Generator_ColumnVarNameInTable="columnPERCENTUALCOMPLETUDE" msprop:Generator_ColumnPropNameInRow="PERCENTUALCOMPLETUDE" msprop:Generator_ColumnPropNameInTable="PERCENTUALCOMPLETUDEColumn" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:DRETAPAPERCENTUALCOMPLETUDE" />
+      <xs:field xpath="mstns:CodEtapa" />
+    </xs:unique>
+    <xs:unique name="DRProjetoPercentualCompletude_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:DRProjetoPercentualCompletude" />
+      <xs:field xpath="mstns:CodigoPrj" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

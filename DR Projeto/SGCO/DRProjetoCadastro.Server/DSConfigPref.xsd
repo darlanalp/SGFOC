@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DSConfigPref" targetNamespace="http://tempuri.org/DSConfigPref.xsd" xmlns:mstns="http://tempuri.org/DSConfigPref.xsd" xmlns="http://tempuri.org/DSConfigPref.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DSConfigPref" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="DSConfigPref" msprop:Generator_DataSetName="DSConfigPref" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Preferencia" msprop:Generator_UserTableName="Preferencia" msprop:Generator_RowDeletedName="PreferenciaRowDeleted" msprop:Generator_RowChangedName="PreferenciaRowChanged" msprop:Generator_RowClassName="PreferenciaRow" msprop:Generator_RowChangingName="PreferenciaRowChanging" msprop:Generator_RowEvArgName="PreferenciaRowChangeEvent" msprop:Generator_RowEvHandlerName="PreferenciaRowChangeEventHandler" msprop:Generator_TableClassName="PreferenciaDataTable" msprop:Generator_TableVarName="tablePreferencia" msprop:Generator_RowDeletingName="PreferenciaRowDeleting" msprop:Generator_TablePropName="Preferencia">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="DataUltimoBck" msprop:Generator_UserColumnName="DataUltimoBck" msprop:Generator_ColumnPropNameInRow="DataUltimoBck" msprop:Generator_ColumnVarNameInTable="columnDataUltimoBck" msprop:Generator_ColumnPropNameInTable="DataUltimoBckColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="NaoMostraGraficoAbriSistema" msprop:Generator_UserColumnName="NaoMostraGraficoAbriSistema" msprop:Generator_ColumnVarNameInTable="columnNaoMostraGraficoAbriSistema" msprop:Generator_ColumnPropNameInRow="NaoMostraGraficoAbriSistema" msprop:Generator_ColumnPropNameInTable="NaoMostraGraficoAbriSistemaColumn" type="xs:boolean" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
